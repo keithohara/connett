@@ -7,7 +7,7 @@ var x = 0;
 
 
 function setup(){
-  createCanvas(window.innerWidth, window.innerHeight);
+  createCanvas(windowWidth, windowHeight);
   fill(0);
   background(255);
 }
