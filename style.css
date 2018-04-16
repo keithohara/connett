@@ -1,3 +1,11 @@
 body{
   padding:0; margin:0;
 }
+
+canvas {
+  display:block;
+}   
+
+canvas:focus {
+  outline:0;
+}
